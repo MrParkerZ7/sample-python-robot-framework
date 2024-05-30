@@ -8,5 +8,15 @@
 - [Chrome Driver](https://googlechromelabs.github.io/chrome-for-testing/#stable)
 
 
-## Report Command
-- robot -t "Lazada Check" source/lazada-search.robot
+## First Priority Topic to Learn
+- robot framework
+- xpath
+
+
+## Secound Priority Topic to Learn
+- python
+- dom html
+
+
+## Command
+- robot --outputdir ./report -t "Lazada Check" source/lazada-search.robot
