@@ -17,7 +17,8 @@
 
 ## Secound Priority Topic to Learn
 - python
-- dom html
+- html
+- dom-tree html
 
 
 ## Command
