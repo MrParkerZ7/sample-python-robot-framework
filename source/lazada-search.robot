@@ -8,7 +8,7 @@ ${lazada_URL}     https://www.lazada.co.th
 ${input_search}   //*[contains(@class, 'search-box__input--O34g')]
 ${btn_search}     //*[contains(@class, 'search-box__search--2fC5')]
 ${search_key}     Bandai MG Astray Red Frame
-${expect_topic_search}   //*[contains(@class, 'JrAy')]
+${expect_topic_search}   //*[contains(@class, 'JrAyI')]
 ${screenshot_dir}    ./images
 
 *** Keywords ***
